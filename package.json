@@ -1,0 +1,11 @@
+{
+  "name": "python-glitch",
+  "version": "1.0.0",
+  "description": "Starter Repo for Using Python with Glitch.com",
+  "private": true,
+  "author": "David J. Thomas",
+  "scripts": {
+    "start": "python script.py"
+  },
+  "license": "MIT"
+}
